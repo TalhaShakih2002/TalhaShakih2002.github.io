@@ -1328,7 +1328,7 @@ teammembers .magnifier {
 
 .teambuttons p {
     padding: 0 30px 20px;
-    color: #fff !important;
+    color: #ffffff !important;
 }
 
 .teambuttons a {
@@ -1630,9 +1630,7 @@ mark.rotate {
     width: 80px;
 }
 
-.service-icon i {
-    font-size: 34px;
-}
+
 
 .readmore {
     font-weight: bold;
